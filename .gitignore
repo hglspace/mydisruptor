@@ -7,3 +7,4 @@ record_msg/
 *.iml
 /.classpath
 src/test
+*.class

@@ -1,0 +1,9 @@
+.idea/
+target/
+.project
+hs_err*.log
+.settings/
+record_msg/
+*.iml
+/.classpath
+src/test
